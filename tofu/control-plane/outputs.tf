@@ -4,7 +4,7 @@
 
 output "control_plane_url" {
   description = "Control Plane URL"
-  value       = "https://control.${var.domain}"
+  value       = "https://control-jose-perezgonzalez.nona.company"
 }
 
 output "pages_project_name" {
